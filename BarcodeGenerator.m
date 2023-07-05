@@ -3,7 +3,7 @@
 % Date of creatinon: 5/07/2022
 % Last Modification: 
 
-cd '/Volumes/DavideC_MIT/UNIL2023/PROJECTS/PCR_droplet/Barcodes/'
+cd '/PathToFolder/'
 
 % The while loop continues generating sequences until the desired number of
 % unique sequences is reached and there are no duplicated sequences. Within
