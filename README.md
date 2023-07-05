@@ -1,21 +1,18 @@
 # GenerateBarcodes
 This code generates unique barcodes consisting of n-letter sequences using a set of possible letters for substitution. The generated barcodes are saved to a text file with column counting.
+
 Prerequisites
-
 Before running the code, ensure that you have the following:
-
 MATLAB installed on your system.
 Access to the MATLAB command window.
 
 Instructions
-
 Open MATLAB and create a new script file.
 Copy and paste the provided code into the script file.
 Save the script file with a .m extension.
 Run the script in MATLAB.
 
 Code Explanation
-
 The initial lines (clc;, clear all;, close all;) clear the command window and workspace.
 The code defines a cell array cellArray to store the generated barcodes and a list of possible letters for substitution (letters).
 The variable LenBar is set to 8, indicating the desired length of each barcode.
@@ -30,7 +27,6 @@ License
 This code is provided under the MIT License. Feel free to modify and use it according to your needs.
 
 Author
-
 This code was written by Davide Ciccarese and is based on an original implementation.
 
 Acknowledgments
