@@ -1,5 +1,5 @@
 # GenerateBarcodes
-This code generates unique barcodes consisting of 8-letter sequences using a set of possible letters for substitution. The generated barcodes are saved to a text file with column counting.
+This code generates unique barcodes consisting of n-letter sequences using a set of possible letters for substitution. The generated barcodes are saved to a text file with column counting.
 Prerequisites
 
 Before running the code, ensure that you have the following:
