@@ -34,7 +34,3 @@ This code is provided under the MIT License. Feel free to modify and use it acco
 Author
 
 This code was written by Davide Ciccarese and is based on an original implementation.
-
-Acknowledgments
-
-Any acknowledgments or credits can be added here if applicable.
